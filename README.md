@@ -10,6 +10,7 @@ This project uses three different machine learning models trained on respective 
 Each model takes a specific set of clinical features and outputs whether the disease is likely to be present.
 
 Here is a snapshot of the working Streamlit site:
+
 ![image](https://github.com/user-attachments/assets/9d29f52e-3917-4dcc-bf12-18745586a408)
 
 ---
@@ -108,8 +109,8 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-#### 4. Save the Py script in your machine
-download the file in your folder. 
+#### 4. Save the script in your machine 
+download the multiple-disease-pred.py file in your folder from the repo.
 #### 5. Run the script using commands.txt
 ```bash
 streamlit run \your\saved\py\script\path
