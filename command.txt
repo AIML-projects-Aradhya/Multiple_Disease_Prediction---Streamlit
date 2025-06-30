@@ -1,0 +1,1 @@
+streamlit run '/Users/aradhya/Desktop/AIML Projects/Multiple-Disease-pred.py'
